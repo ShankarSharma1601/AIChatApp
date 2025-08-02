@@ -1,0 +1,13 @@
+package com.ai.ai_chat;
+
+import org.springframework.stereotype.Service;
+
+@Service
+public class QnAService {
+
+	public String getAnswer(String question) {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+}
